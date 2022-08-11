@@ -121,6 +121,9 @@ body,
   padding: 10px 15px;
   text-align: left;
 }
+.not-found-message{
+  text-align: center;
+}
 
 .book {
   width: 140px;
@@ -134,6 +137,9 @@ body,
 }
 .book-authors {
   color: #999;
+}
+.book-authors span{
+  display: block;
 }
 
 .book-top {
